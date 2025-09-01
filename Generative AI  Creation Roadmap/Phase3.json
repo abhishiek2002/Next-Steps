@@ -1,0 +1,32 @@
+{
+  "Phase 3 - Deep Learning": {
+    "Neural Network Basics": {
+      "Perceptron": "Simple single-layer neural network for binary classification.",
+      "Multi-layer Perceptron (MLP)": "Feedforward network with multiple layers and activation functions.",
+      "Activation Functions": "Sigmoid, ReLU, Tanh, Leaky ReLU for non-linearity.",
+      "Forward & Backpropagation": "Computing outputs and gradients to update weights using chain rule."
+    },
+    "Frameworks": {
+      "PyTorch": "Deep learning library for dynamic computation graphs and flexible model building.",
+      "TensorFlow": "Deep learning library with static/dynamic graphs, widely used in industry and research.",
+      "JAX": "High-performance library for numerical computing and automatic differentiation."
+    },
+    "Architectures": {
+      "Convolutional Neural Networks (CNNs)": "Used for image processing; includes convolution, pooling layers.",
+      "Recurrent Neural Networks (RNNs)": "Sequence modeling for time series and text data.",
+      "LSTMs & GRUs": "Advanced RNNs to handle long-term dependencies in sequences.",
+      "Transformers": "Attention-based architecture for NLP and generative tasks."
+    },
+    "Attention Mechanism": {
+      "Scaled Dot-Product Attention": "Core operation in transformers calculating attention weights.",
+      "Self-Attention": "Each token attends to other tokens to capture context.",
+      "Multi-Head Attention": "Parallel attention heads for richer representation."
+    },
+    "Training Large Models": {
+      "Batch Normalization": "Stabilizes learning and accelerates convergence.",
+      "Dropout": "Prevents overfitting by randomly dropping neurons during training.",
+      "Weight Initialization": "Proper initialization (Xavier, He) for stable training.",
+      "Gradient Clipping": "Prevents exploding gradients in deep networks."
+    }
+  }
+}

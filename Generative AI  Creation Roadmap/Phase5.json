@@ -1,0 +1,26 @@
+{
+  "Phase 5 - Infrastructure & Systems for GenAI": {
+    "Distributed Computing": {
+      "Data Parallelism": "Splitting data across multiple devices to train the same model in parallel.",
+      "Model Parallelism": "Splitting a large model across multiple devices to fit in memory.",
+      "Pipeline Parallelism": "Sequentially dividing layers across devices for efficient training.",
+      "Frameworks": "DeepSpeed, Horovod, Ray for distributed training and scaling."
+    },
+    "GPU & Accelerators": {
+      "CUDA": "NVIDIA GPU programming for parallel computation.",
+      "cuDNN": "Optimized GPU library for deep learning operations.",
+      "TPU Basics": "Google's specialized hardware for fast matrix operations and AI workloads."
+    },
+    "Efficient Training": {
+      "Mixed Precision": "Using lower precision (FP16) to speed up training and reduce memory.",
+      "Quantization": "Reducing model size and compute by lowering precision of weights.",
+      "LoRA (Low-Rank Adaptation)": "Efficient fine-tuning method for large models.",
+      "Pruning": "Removing unimportant weights to compress models."
+    },
+    "Data Engineering": {
+      "Large-scale Dataset Curation": "Collecting and organizing high-quality datasets for training.",
+      "Data Cleaning": "Removing noise, duplicates, and inconsistencies in data.",
+      "Data Augmentation": "Creating variations of data to improve model generalization."
+    }
+  }
+}

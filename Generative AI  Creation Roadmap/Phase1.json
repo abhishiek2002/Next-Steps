@@ -1,0 +1,35 @@
+{
+  "Phase 1 - Computer Science & Math Foundations": {
+    "Programming": {
+      "Python": "Learn syntax, data structures, functions, OOP, and libraries like NumPy, Pandas for AI.",
+      "C++": "Understand memory management, pointers, classes, and templates to implement efficient algorithms.",
+      "JavaScript/TypeScript": "Basics of JS/TS for tooling, visualization, and web-based AI interfaces."
+    },
+    "Data Structures & Algorithms": {
+      "Arrays": "Basic and multidimensional arrays, operations, and manipulation.",
+      "Linked Lists": "Singly, doubly, circular linked lists, operations and use cases.",
+      "Stacks & Queues": "Implementation and use in algorithms, BFS/DFS.",
+      "Trees": "Binary trees, binary search trees, traversals (pre/in/post order).",
+      "Graphs": "Graph representations, BFS, DFS, shortest path algorithms.",
+      "Hashing": "Hash maps, sets, collision resolution, applications in AI data structures."
+    },
+    "Operating Systems": {
+      "Threads": "Concept of threads, multithreading, synchronization, race conditions.",
+      "Memory Management": "Heap, stack, virtual memory, paging, garbage collection.",
+      "Processes": "Process lifecycle, scheduling, IPC (Inter-process communication).",
+      "File Systems": "Basics of files, directories, read/write operations, permissions."
+    },
+    "Networking": {
+      "OSI & TCP/IP Model": "Understand layers, protocols, and data flow in networks.",
+      "Sockets": "Client-server communication using TCP/UDP sockets.",
+      "HTTP/HTTPS": "Web communication, request-response cycle, SSL/TLS basics.",
+      "IP Addressing": "IPv4/IPv6, subnetting, public vs private addresses."
+    },
+    "Mathematics for AI": {
+      "Linear Algebra": "Vectors, matrices, matrix multiplication, determinants, eigenvalues, SVD.",
+      "Probability & Statistics": "Probability distributions, expectation, variance, Bayes theorem.",
+      "Calculus": "Derivatives, partial derivatives, chain rule, gradient concepts.",
+      "Information Theory": "Entropy, cross-entropy, KL divergence, mutual information."
+    }
+  }
+}

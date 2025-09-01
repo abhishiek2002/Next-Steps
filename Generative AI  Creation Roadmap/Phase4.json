@@ -1,0 +1,24 @@
+{
+  "Phase 4 - Generative AI Core": {
+    "Language Models (LMs)": {
+      "N-grams": "Statistical language models based on sequences of N words for predicting next word.",
+      "RNNs": "Sequence models capturing dependencies for text generation.",
+      "Transformers": "Attention-based models enabling parallel training and capturing long-range dependencies.",
+      "GPT-like LLMs": "Causal transformers trained for autoregressive text generation."
+    },
+    "Pretraining & Fine-tuning": {
+      "Self-Supervised Learning": "Learning representations from unlabeled data by predicting parts of input.",
+      "Causal Language Modeling": "Predicting the next token given previous tokens.",
+      "Masked Language Modeling": "Predicting masked tokens in text for bidirectional understanding."
+    },
+    "Generative Models": {
+      "Variational Autoencoders (VAEs)": "Latent-variable models generating data by sampling from learned distributions.",
+      "Generative Adversarial Networks (GANs)": "Models with generator and discriminator competing to produce realistic data.",
+      "Diffusion Models": "Sequential noise removal models for high-quality data generation, used in images."
+    },
+    "Scaling Laws": {
+      "Model Size vs Performance": "Understanding the trade-offs between parameters, data, and compute.",
+      "Data & Compute Requirements": "Estimating the resources needed to train large generative models."
+    }
+  }
+}

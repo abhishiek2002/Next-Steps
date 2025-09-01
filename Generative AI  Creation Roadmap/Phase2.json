@@ -1,0 +1,30 @@
+{
+  "Phase 2 - Core Machine Learning": {
+    "Machine Learning Fundamentals": {
+      "Regression": "Linear and logistic regression, understanding relationships between variables, prediction.",
+      "Classification": "Decision boundaries, k-NN, SVMs, naive Bayes for categorizing data.",
+      "Clustering": "K-Means, hierarchical clustering, DBSCAN for unsupervised grouping.",
+      "Dimensionality Reduction": "PCA, t-SNE, feature selection to reduce data complexity."
+    },
+    "Optimization": {
+      "Gradient Descent": "Basic gradient descent, convergence, learning rate tuning.",
+      "Stochastic Gradient Descent (SGD)": "Mini-batch updates for large datasets.",
+      "Adaptive Methods": "Adam, RMSProp, Adagrad for faster and stable training."
+    },
+    "Model Evaluation": {
+      "Cross-Validation": "K-Fold, stratified CV to evaluate generalization.",
+      "Metrics": "Accuracy, precision, recall, F1-score, ROC-AUC for classification models.",
+      "Overfitting & Underfitting": "Bias-variance tradeoff, regularization techniques."
+    },
+    "Feature Engineering": {
+      "Feature Scaling": "Normalization, standardization for consistent model input.",
+      "Encoding Categorical Variables": "One-hot, label encoding, embedding techniques.",
+      "Handling Missing Data": "Imputation, dropping, or modeling missing values."
+    },
+    "Data Preprocessing": {
+      "Data Cleaning": "Handling outliers, duplicates, inconsistencies.",
+      "Data Transformation": "Log transforms, polynomial features, interaction terms.",
+      "Data Augmentation": "For images, text, or tabular data to increase dataset size."
+    }
+  }
+}

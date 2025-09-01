@@ -1,0 +1,77 @@
+{
+  "beginner_to_intermediate_projects": [
+    {
+      "name": "Markdown Editor",
+      "description": "Build a desktop/web editor where you can type Markdown and see live preview.",
+      "tools": ["marked.js", "text area"],
+      "features": ["export to PDF/HTML"],
+      "skill": "Parsing + text processing"
+    },
+    {
+      "name": "JSON Viewer & Formatter",
+      "description": "Input raw JSON → format, validate, and show collapsible tree view.",
+      "features": ["search keys and values"],
+      "skill": "Working with structured data"
+    },
+    {
+      "name": "CLI Todo App",
+      "description": "Create a command-line tool with commands like todo add 'task', todo list, todo done 1.",
+      "storage": ["JSON file", "SQLite"],
+      "skill": "Command-line tools + file handling"
+    }
+  ],
+  "intermediate_to_advanced_projects": [
+    {
+      "name": "Mini Git",
+      "features": ["init", "add", "commit", "log"],
+      "skill": "File system management + versioning"
+    },
+    {
+      "name": "Custom Package Manager",
+      "description": "Like npm but simpler.",
+      "features": [
+        "install JS packages from registry or GitHub",
+        "maintain package.json equivalent"
+      ],
+      "skill": "Networking + dependency management"
+    },
+    {
+      "name": "Text Diff Tool",
+      "description": "Compare two text files and highlight differences (like GitHub diffs).",
+      "features": ["line numbers", "color-coded changes"],
+      "skill": "Algorithms (diff/longest common subsequence)"
+    }
+  ],
+  "advanced_projects": [
+    {
+      "name": "Custom Code Editor",
+      "description": "VS Code-like editor.",
+      "skill": "Desktop dev + file system + advanced UI"
+    },
+    {
+      "name": "Mini Database Engine",
+      "features": [
+        "Creating tables",
+        "Inserting rows",
+        "Querying with SQL-like commands"
+      ],
+      "skill": "Data structures + query parsing"
+    },
+    {
+      "name": "Build Your Own Shell",
+      "features": ["support commands like ls, cd, cat", "support piping |"],
+      "skill": "OS concepts + process handling"
+    },
+    {
+      "name": "Code Formatter / Linter",
+      "description": "Pick a language (JavaScript), format code and warn about unused variables.",
+      "skill": "AST parsing + compiler basics"
+    }
+  ],
+  "recommendation": [
+    "Markdown Editor (desktop) → to get used to Electron",
+    "CLI Todo App → to practice building developer tools",
+    "Mini Git → to dive into deeper developer-focused projects",
+    "Then jump to your VS Code–like editor"
+  ]
+}

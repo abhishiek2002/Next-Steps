@@ -1,0 +1,27 @@
+{
+  "Phase 6 - Advanced Specializations": {
+    "Reinforcement Learning from Human Feedback (RLHF)": {
+      "Overview": "Training models using feedback from humans to align outputs with desired behavior.",
+      "Reward Models": "Models predicting reward scores for generated outputs based on human feedback.",
+      "Policy Optimization": "Techniques like PPO to improve model outputs according to reward signals."
+    },
+    "Retrieval-Augmented Generation (RAG)": {
+      "Overview": "Combining LLMs with external knowledge retrieval for accurate and up-to-date responses.",
+      "Vector Embeddings": "Converting text into vectors for similarity search in large datasets.",
+      "Search & Ranking": "Retrieving relevant documents and integrating them with generation models."
+    },
+    "Knowledge Distillation": {
+      "Overview": "Compressing large models into smaller, efficient versions while retaining performance.",
+      "Teacher-Student Models": "Large teacher model guides a smaller student model during training."
+    },
+    "Multimodal Models": {
+      "Overview": "Models that can process and generate text, images, audio, and video.",
+      "Applications": "Image captioning, video generation, audio-to-text, and text-to-image tasks."
+    },
+    "Agentic AI Systems": {
+      "Overview": "AI systems capable of planning, reasoning, and tool use autonomously.",
+      "Planning & Reasoning": "Decision-making pipelines for multi-step problem solving.",
+      "Tool Use": "Integrating APIs, external knowledge bases, or software tools into AI workflows."
+    }
+  }
+}
