@@ -24,7 +24,7 @@
     {
       "name": "Mini Git",
       "features": ["init", "add", "commit", "log"],
-      "skill": "File system management + versioning"
+      "skill": "File system management + versioning + optional networking"
     },
     {
       "name": "Custom Package Manager",
